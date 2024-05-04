@@ -8,7 +8,7 @@
 - [x] Set up a database
 - [x] Attach database to UI
 - [x] Add authentication
-- [ ] add image upload
+- [x] add image upload
 - [ ] Error management
 - [ ] Routing/image page
 - [ ] Delete button
