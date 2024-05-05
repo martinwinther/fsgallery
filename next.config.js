@@ -30,8 +30,6 @@ const coreConfig = {
   },
 };
 
-};
-
 import { withSentryConfig } from "@sentry/nextjs";
 
 const config = withSentryConfig(
