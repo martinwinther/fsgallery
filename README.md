@@ -9,8 +9,8 @@
 - [x] Attach database to UI
 - [x] Add authentication
 - [x] add image upload
-- [ ] Error management
-- [ ] Routing/image page
+- [x] Error management
+- [x] Routing/image page
 - [ ] Delete button
 - [ ] Analytics
 - [ ] Ratelimiting
