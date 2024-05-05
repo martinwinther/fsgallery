@@ -11,6 +11,6 @@
 - [x] add image upload
 - [x] Error management
 - [x] Routing/image page
-- [ ] Delete button
 - [ ] Analytics
+- [ ] Delete button
 - [ ] Ratelimiting
